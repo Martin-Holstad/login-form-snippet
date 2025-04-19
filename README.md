@@ -34,7 +34,7 @@ Welcome to the Login Snippet! This React-based project showcases an interactive 
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/Martin-Holstad/VikingFjord-whitelist-frontend.git
+git clone https://github.com/Martin-Holstad/login-form-snippet.git
 ```
 
 2. Install the dependencies:
