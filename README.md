@@ -12,7 +12,7 @@ Password: pass123
 
 Welcome to the Login Snippet! This React-based project showcases an interactive login form, allowing users to enter their credentials and securely log in to an application.
 
-[Link to VikingFjord website](https://vikingfjord.netlify.app/)
+[Link to Login Snippet website](https://login-snippet.netlify.app/)
 
 ## Features
 
