@@ -8,6 +8,12 @@ Welcome to the Login Snippet! This React-based project showcases an interactive 
 
 [Link to VikingFjord website](https://vikingfjord.netlify.app/)
 
+## Username and password
+
+Username: eksample@gmail.com
+
+Password: pass123
+
 ## Features
 
 ### Form
