@@ -1,3 +1,9 @@
+# Username and password
+
+Username: eksample@gmail.com
+
+Password: pass123
+
 # Login Snippet
 
 ![Screenshot 2025-04-19 093014](https://github.com/user-attachments/assets/b1da5311-2c23-46a9-bc81-76ca6a48110c)
@@ -7,12 +13,6 @@
 Welcome to the Login Snippet! This React-based project showcases an interactive login form, allowing users to enter their credentials and securely log in to an application.
 
 [Link to VikingFjord website](https://vikingfjord.netlify.app/)
-
-## Username and password
-
-Username: eksample@gmail.com
-
-Password: pass123
 
 ## Features
 
