@@ -1,0 +1,25 @@
+.message {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+  padding: 5px;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.error {
+  color: white;
+  background: red;
+}
+
+.warning {
+  color: white;
+  background: orange;
+}
+
+.success {
+  color: white;
+  background: green;
+}
